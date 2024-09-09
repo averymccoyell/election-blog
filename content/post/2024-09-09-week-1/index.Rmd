@@ -18,6 +18,7 @@ The upcoming U.S. Presidential Election has been dubbed by many as the most impo
 In this week's -- our very first -- blog post, we examine the *following two questions*: 
 
 **1. How competitive are presidential elections in the United States?**
+
 **2. Which states vote blue/red, and how consistently?**
 
 First, we look at the competitiveness of presidential elections in the United States. 
