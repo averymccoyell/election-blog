@@ -1,7 +1,7 @@
 ---
-title: "title"
+title: "Test post"
 author: "Package Build"
-date: '2024-09-06'
+date: '2024-09-08'
 slug: post-1
 categories: []
 tags: []
